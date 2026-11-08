@@ -281,8 +281,6 @@ git commit -m "Update week 1 coursework"
 git push
 ```
 
-It's worth reviewing the staged changes before committing. As new coursework gets added, include its files too.
-
 ---
 
 
