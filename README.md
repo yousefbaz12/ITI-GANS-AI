@@ -285,34 +285,6 @@ It's worth reviewing the staged changes before committing. As new coursework get
 
 ---
 
-## About me
 
-**Your Name**
-ITI Generative AI track student
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
 
----
-
-## License
-
-This project is released under the [MIT License](LICENSE). Feel free to learn from it, reuse it, and build on it.
-
----
-
-## Acknowledgements
-
-- [NASA Open APIs](https://api.nasa.gov/) for the NeoWs asteroid data
-- The ITI instructors and everyone running the Generative AI track
-
----
-
-<div align="center">
-
-If this repo helped you, a star would make my day.
-
-Built week by week, and still growing.
-
-</div>
